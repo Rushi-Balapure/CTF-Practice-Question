@@ -1,0 +1,9 @@
+Title:
+Hint:Explore the area
+Difficulty: Hard
+Category: Reverse Engineering
+#####NOT TO BE GIVEN ON WEBSITE
+username:Rambo
+password:super_secret_password
+Flag:LakshyaCTF{Rever$e_.NEt_App}
+################################

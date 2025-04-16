@@ -1,0 +1,6 @@
+Title:- The Play was fun, but not fair.
+
+Problem Statement:-
+OFCASESQAMUABRDZSFKCAEEWPBEYPSSB
+Note:- The format for the flag is LakshyaCTF{plaintext}.
+flag:-LakshyaCTF{thetempest}
